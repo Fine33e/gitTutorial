@@ -1,2 +1,2 @@
 # gitTutorial
-Mainly here are instruction for other repo users
+Mainly here are instructions for other repo users
